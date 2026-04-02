@@ -1,0 +1,344 @@
+PCB Design,Finding ID,Issue Type,Status,Designer,Reviewer,Designer Response
+CCA-Aquila,CCA-Aquila-1,Impedance mismatch,Open,N. Haddad,F. Dubois,Resolved by modifying stackup.
+CCA-Aquila,CCA-Aquila-2,Trace width below spec,In Progress,N. Haddad,E. Fischer,"Fix applied, awaiting re-review."
+CCA-Aquila,CCA-Aquila-3,Missing ground stitching vias,Resolved,L. Chen,H. Suzuki,"Discussed with team, fix in progress."
+CCA-Aquila,CCA-Aquila-4,Silkscreen overlap,Resolved,T. Bauer,P. Rao,"Acknowledged, will address in next revision."
+CCA-Aquila,CCA-Aquila-5,High-speed signal routing concern,In Progress,T. Bauer,E. Fischer,Resolved by modifying stackup.
+CCA-Aquila,CCA-Aquila-6,Unconnected net,In Progress,D. Alvarez,H. Suzuki,"Discussed with team, fix in progress."
+CCA-Aquila,CCA-Aquila-7,Missing ground stitching vias,In Progress,A. Morgan,C. Bennett,Added required features and verified.
+CCA-Aquila,CCA-Aquila-8,Unconnected net,Resolved,D. Alvarez,E. Fischer,"Fix applied, awaiting re-review."
+CCA-Aquila,CCA-Aquila-9,Missing ground stitching vias,Resolved,L. Chen,F. Dubois,Constraint updated and rerouted.
+CCA-Aquila,CCA-Aquila-10,Power plane split issue,In Progress,J. Kim,Y. Tanaka,Pending validation after changes.
+CCA-Aquila,CCA-Aquila-11,Trace width below spec,Open,J. Kim,E. Fischer,Added required features and verified.
+CCA-Aquila,CCA-Aquila-12,Missing ground stitching vias,Open,L. Chen,Y. Tanaka,"Discussed with team, fix in progress."
+CCA-Aquila,CCA-Aquila-13,High-speed signal routing concern,In Progress,N. Haddad,B. O'Neil,Corrected and pushed to latest revision.
+CCA-Aquila,CCA-Aquila-14,Power plane split issue,Resolved,R. Singh,F. Dubois,No longer applicable after redesign.
+CCA-Aquila,CCA-Aquila-15,Trace width below spec,Open,M. Novak,E. Fischer,"Acknowledged, will address in next revision."
+CCA-Aquila,CCA-Aquila-16,Impedance mismatch,Open,A. Morgan,P. Rao,Added required features and verified.
+CCA-Aquila,CCA-Aquila-17,Thermal relief missing,Open,T. Bauer,Y. Tanaka,Corrected and pushed to latest revision.
+CCA-Aquila,CCA-Aquila-18,Component clearance issue,Open,M. Novak,G. Costa,"Discussed with team, fix in progress."
+CCA-Aquila,CCA-Aquila-19,Impedance mismatch,In Progress,K. Ito,Y. Tanaka,Pending validation after changes.
+CCA-Aquila,CCA-Aquila-20,Silkscreen overlap,Open,M. Novak,B. O'Neil,Adjusted layout to meet spec.
+CCA-Aquila,CCA-Aquila-21,Missing ground stitching vias,Resolved,R. Singh,F. Dubois,Adjusted layout to meet spec.
+CCA-Aquila,CCA-Aquila-22,Via too close to pad,Open,L. Chen,P. Rao,Adjusted layout to meet spec.
+CCA-Aquila,CCA-Aquila-23,Thermal relief missing,Open,K. Ito,Y. Tanaka,Constraint updated and rerouted.
+CCA-Aquila,CCA-Aquila-24,Impedance mismatch,In Progress,A. Morgan,P. Rao,Added required features and verified.
+CCA-Aquila,CCA-Aquila-25,Impedance mismatch,In Progress,S. Park,H. Suzuki,Resolved by modifying stackup.
+CCA-Aquila,CCA-Aquila-26,Power plane split issue,In Progress,K. Ito,P. Rao,No longer applicable after redesign.
+CCA-Aquila,CCA-Aquila-27,Thermal relief missing,In Progress,L. Chen,H. Suzuki,Corrected and pushed to latest revision.
+CCA-Aquila,CCA-Aquila-28,Silkscreen overlap,In Progress,N. Haddad,G. Costa,Adjusted layout to meet spec.
+CCA-Aquila,CCA-Aquila-29,Impedance mismatch,Open,D. Alvarez,F. Dubois,Pending validation after changes.
+CCA-Aquila,CCA-Aquila-30,Power plane split issue,Open,S. Park,B. O'Neil,Corrected and pushed to latest revision.
+CCA-Aquila,CCA-Aquila-31,Unconnected net,Open,M. Novak,E. Fischer,No longer applicable after redesign.
+CCA-Aquila,CCA-Aquila-32,Power plane split issue,Open,A. Morgan,H. Suzuki,Pending validation after changes.
+CCA-Aquila,CCA-Aquila-33,Silkscreen overlap,In Progress,N. Haddad,H. Suzuki,Resolved by modifying stackup.
+CCA-Zephyr,CCA-Zephyr-1,High-speed signal routing concern,In Progress,N. Haddad,G. Costa,Resolved by modifying stackup.
+CCA-Zephyr,CCA-Zephyr-2,High-speed signal routing concern,Open,J. Kim,H. Suzuki,Adjusted layout to meet spec.
+CCA-Zephyr,CCA-Zephyr-3,High-speed signal routing concern,Resolved,A. Morgan,Y. Tanaka,No longer applicable after redesign.
+CCA-Zephyr,CCA-Zephyr-4,Impedance mismatch,Open,K. Ito,B. O'Neil,Adjusted layout to meet spec.
+CCA-Zephyr,CCA-Zephyr-5,Trace width below spec,Open,S. Park,Y. Tanaka,Added required features and verified.
+CCA-Zephyr,CCA-Zephyr-6,Thermal relief missing,In Progress,K. Ito,F. Dubois,No longer applicable after redesign.
+CCA-Zephyr,CCA-Zephyr-7,Thermal relief missing,In Progress,J. Kim,C. Bennett,"Discussed with team, fix in progress."
+CCA-Zephyr,CCA-Zephyr-8,Thermal relief missing,In Progress,D. Alvarez,H. Suzuki,Constraint updated and rerouted.
+CCA-Zephyr,CCA-Zephyr-9,Silkscreen overlap,Resolved,T. Bauer,F. Dubois,Corrected and pushed to latest revision.
+CCA-Zephyr,CCA-Zephyr-10,Thermal relief missing,Resolved,D. Alvarez,Y. Tanaka,"Acknowledged, will address in next revision."
+CCA-Zephyr,CCA-Zephyr-11,Trace width below spec,Resolved,A. Morgan,H. Suzuki,Adjusted layout to meet spec.
+CCA-Zephyr,CCA-Zephyr-12,Via too close to pad,In Progress,N. Haddad,B. O'Neil,Adjusted layout to meet spec.
+CCA-Zephyr,CCA-Zephyr-13,Missing ground stitching vias,In Progress,R. Singh,P. Rao,"Acknowledged, will address in next revision."
+CCA-Zephyr,CCA-Zephyr-14,Via too close to pad,Open,M. Novak,P. Rao,Added required features and verified.
+CCA-Zephyr,CCA-Zephyr-15,Power plane split issue,Resolved,A. Morgan,G. Costa,Added required features and verified.
+CCA-Zephyr,CCA-Zephyr-16,Unconnected net,Resolved,L. Chen,C. Bennett,No longer applicable after redesign.
+CCA-Zephyr,CCA-Zephyr-17,Trace width below spec,In Progress,K. Ito,E. Fischer,Constraint updated and rerouted.
+CCA-Zephyr,CCA-Zephyr-18,Via too close to pad,Resolved,A. Morgan,H. Suzuki,"Acknowledged, will address in next revision."
+CCA-Zephyr,CCA-Zephyr-19,Impedance mismatch,Resolved,T. Bauer,Y. Tanaka,"Acknowledged, will address in next revision."
+CCA-Zephyr,CCA-Zephyr-20,Silkscreen overlap,In Progress,A. Morgan,P. Rao,"Fix applied, awaiting re-review."
+CCA-Zephyr,CCA-Zephyr-21,Trace width below spec,Resolved,D. Alvarez,H. Suzuki,No longer applicable after redesign.
+CCA-Zephyr,CCA-Zephyr-22,Trace width below spec,In Progress,K. Ito,B. O'Neil,Resolved by modifying stackup.
+CCA-Zephyr,CCA-Zephyr-23,Missing ground stitching vias,Resolved,K. Ito,E. Fischer,No longer applicable after redesign.
+CCA-Zephyr,CCA-Zephyr-24,Thermal relief missing,Resolved,N. Haddad,E. Fischer,Added required features and verified.
+CCA-Zephyr,CCA-Zephyr-25,Trace width below spec,Resolved,T. Bauer,F. Dubois,Added required features and verified.
+CCA-Zephyr,CCA-Zephyr-26,High-speed signal routing concern,Resolved,A. Morgan,B. O'Neil,"Acknowledged, will address in next revision."
+CCA-Zephyr,CCA-Zephyr-27,Trace width below spec,Open,J. Kim,B. O'Neil,Corrected and pushed to latest revision.
+CCA-Zephyr,CCA-Zephyr-28,Thermal relief missing,In Progress,R. Singh,C. Bennett,No longer applicable after redesign.
+CCA-Zephyr,CCA-Zephyr-29,Silkscreen overlap,Resolved,S. Park,G. Costa,Pending validation after changes.
+CCA-Zephyr,CCA-Zephyr-30,Power plane split issue,Open,M. Novak,B. O'Neil,"Discussed with team, fix in progress."
+CCA-Zephyr,CCA-Zephyr-31,Impedance mismatch,Resolved,J. Kim,P. Rao,Added required features and verified.
+CCA-Zephyr,CCA-Zephyr-32,Trace width below spec,Open,N. Haddad,G. Costa,"Acknowledged, will address in next revision."
+CCA-Zephyr,CCA-Zephyr-33,Thermal relief missing,Resolved,L. Chen,G. Costa,No longer applicable after redesign.
+CCA-Zephyr,CCA-Zephyr-34,Via too close to pad,In Progress,S. Park,Y. Tanaka,"Discussed with team, fix in progress."
+CCA-Zephyr,CCA-Zephyr-35,Component clearance issue,In Progress,A. Morgan,E. Fischer,Resolved by modifying stackup.
+CCA-Zephyr,CCA-Zephyr-36,High-speed signal routing concern,In Progress,A. Morgan,F. Dubois,"Fix applied, awaiting re-review."
+CCA-Zephyr,CCA-Zephyr-37,Silkscreen overlap,Open,R. Singh,C. Bennett,Adjusted layout to meet spec.
+CCA-Zephyr,CCA-Zephyr-38,Impedance mismatch,Resolved,K. Ito,P. Rao,Pending validation after changes.
+CCA-Zephyr,CCA-Zephyr-39,Thermal relief missing,Open,A. Morgan,P. Rao,"Fix applied, awaiting re-review."
+CCA-Orion,CCA-Orion-1,Impedance mismatch,Resolved,M. Novak,G. Costa,Resolved by modifying stackup.
+CCA-Orion,CCA-Orion-2,Component clearance issue,In Progress,S. Park,Y. Tanaka,Corrected and pushed to latest revision.
+CCA-Orion,CCA-Orion-3,Missing ground stitching vias,In Progress,R. Singh,H. Suzuki,Constraint updated and rerouted.
+CCA-Orion,CCA-Orion-4,Silkscreen overlap,In Progress,A. Morgan,Y. Tanaka,Corrected and pushed to latest revision.
+CCA-Orion,CCA-Orion-5,Unconnected net,Resolved,S. Park,P. Rao,No longer applicable after redesign.
+CCA-Orion,CCA-Orion-6,Missing ground stitching vias,In Progress,L. Chen,B. O'Neil,Adjusted layout to meet spec.
+CCA-Orion,CCA-Orion-7,Impedance mismatch,Resolved,T. Bauer,Y. Tanaka,Adjusted layout to meet spec.
+CCA-Orion,CCA-Orion-8,Component clearance issue,In Progress,A. Morgan,C. Bennett,Resolved by modifying stackup.
+CCA-Orion,CCA-Orion-9,Trace width below spec,Resolved,D. Alvarez,Y. Tanaka,"Fix applied, awaiting re-review."
+CCA-Orion,CCA-Orion-10,Impedance mismatch,In Progress,D. Alvarez,C. Bennett,Adjusted layout to meet spec.
+CCA-Orion,CCA-Orion-11,Power plane split issue,Open,A. Morgan,G. Costa,Corrected and pushed to latest revision.
+CCA-Orion,CCA-Orion-12,Via too close to pad,Resolved,K. Ito,Y. Tanaka,Constraint updated and rerouted.
+CCA-Orion,CCA-Orion-13,Power plane split issue,In Progress,J. Kim,P. Rao,Added required features and verified.
+CCA-Orion,CCA-Orion-14,Silkscreen overlap,Resolved,T. Bauer,G. Costa,No longer applicable after redesign.
+CCA-Orion,CCA-Orion-15,Component clearance issue,Resolved,N. Haddad,F. Dubois,"Fix applied, awaiting re-review."
+CCA-Orion,CCA-Orion-16,Silkscreen overlap,Open,D. Alvarez,P. Rao,"Discussed with team, fix in progress."
+CCA-Orion,CCA-Orion-17,Silkscreen overlap,Open,N. Haddad,F. Dubois,Constraint updated and rerouted.
+CCA-Orion,CCA-Orion-18,Missing ground stitching vias,Open,A. Morgan,B. O'Neil,Constraint updated and rerouted.
+CCA-Orion,CCA-Orion-19,Impedance mismatch,Resolved,D. Alvarez,E. Fischer,Added required features and verified.
+CCA-Orion,CCA-Orion-20,High-speed signal routing concern,In Progress,N. Haddad,H. Suzuki,"Discussed with team, fix in progress."
+CCA-Orion,CCA-Orion-21,Component clearance issue,Resolved,A. Morgan,H. Suzuki,"Fix applied, awaiting re-review."
+CCA-Orion,CCA-Orion-22,Impedance mismatch,Open,J. Kim,E. Fischer,"Discussed with team, fix in progress."
+CCA-Orion,CCA-Orion-23,Silkscreen overlap,In Progress,K. Ito,H. Suzuki,Added required features and verified.
+CCA-Orion,CCA-Orion-24,Trace width below spec,Resolved,S. Park,F. Dubois,Adjusted layout to meet spec.
+CCA-Orion,CCA-Orion-25,Missing ground stitching vias,Open,J. Kim,B. O'Neil,"Acknowledged, will address in next revision."
+CCA-Orion,CCA-Orion-26,Silkscreen overlap,Open,S. Park,B. O'Neil,Constraint updated and rerouted.
+CCA-Orion,CCA-Orion-27,Component clearance issue,Resolved,S. Park,E. Fischer,Constraint updated and rerouted.
+CCA-Orion,CCA-Orion-28,Component clearance issue,Resolved,L. Chen,B. O'Neil,Corrected and pushed to latest revision.
+CCA-Orion,CCA-Orion-29,Silkscreen overlap,Open,L. Chen,E. Fischer,"Discussed with team, fix in progress."
+CCA-Orion,CCA-Orion-30,Missing ground stitching vias,Resolved,R. Singh,H. Suzuki,"Fix applied, awaiting re-review."
+CCA-Orion,CCA-Orion-31,Silkscreen overlap,Resolved,N. Haddad,Y. Tanaka,"Fix applied, awaiting re-review."
+CCA-Orion,CCA-Orion-32,Thermal relief missing,In Progress,R. Singh,Y. Tanaka,Corrected and pushed to latest revision.
+CCA-Orion,CCA-Orion-33,Unconnected net,In Progress,T. Bauer,P. Rao,Constraint updated and rerouted.
+CCA-Orion,CCA-Orion-34,Missing ground stitching vias,Open,L. Chen,F. Dubois,"Fix applied, awaiting re-review."
+CCA-Orion,CCA-Orion-35,Impedance mismatch,Resolved,T. Bauer,B. O'Neil,Constraint updated and rerouted.
+CCA-Orion,CCA-Orion-36,Thermal relief missing,Resolved,T. Bauer,Y. Tanaka,Corrected and pushed to latest revision.
+CCA-Lyra,CCA-Lyra-1,Thermal relief missing,In Progress,N. Haddad,F. Dubois,"Fix applied, awaiting re-review."
+CCA-Lyra,CCA-Lyra-2,Silkscreen overlap,In Progress,M. Novak,G. Costa,Constraint updated and rerouted.
+CCA-Lyra,CCA-Lyra-3,Component clearance issue,In Progress,A. Morgan,Y. Tanaka,Resolved by modifying stackup.
+CCA-Lyra,CCA-Lyra-4,Unconnected net,Open,R. Singh,H. Suzuki,Constraint updated and rerouted.
+CCA-Lyra,CCA-Lyra-5,Missing ground stitching vias,Open,K. Ito,G. Costa,Corrected and pushed to latest revision.
+CCA-Lyra,CCA-Lyra-6,Unconnected net,Open,K. Ito,F. Dubois,Corrected and pushed to latest revision.
+CCA-Lyra,CCA-Lyra-7,High-speed signal routing concern,Resolved,J. Kim,B. O'Neil,Corrected and pushed to latest revision.
+CCA-Lyra,CCA-Lyra-8,Silkscreen overlap,Open,S. Park,P. Rao,"Fix applied, awaiting re-review."
+CCA-Lyra,CCA-Lyra-9,Component clearance issue,In Progress,R. Singh,G. Costa,Constraint updated and rerouted.
+CCA-Lyra,CCA-Lyra-10,Impedance mismatch,Resolved,S. Park,B. O'Neil,"Fix applied, awaiting re-review."
+CCA-Lyra,CCA-Lyra-11,Via too close to pad,Resolved,S. Park,E. Fischer,Pending validation after changes.
+CCA-Lyra,CCA-Lyra-12,Via too close to pad,Open,L. Chen,G. Costa,Resolved by modifying stackup.
+CCA-Lyra,CCA-Lyra-13,Impedance mismatch,Resolved,T. Bauer,F. Dubois,Adjusted layout to meet spec.
+CCA-Lyra,CCA-Lyra-14,Component clearance issue,Resolved,L. Chen,H. Suzuki,"Fix applied, awaiting re-review."
+CCA-Lyra,CCA-Lyra-15,Component clearance issue,Open,S. Park,Y. Tanaka,Corrected and pushed to latest revision.
+CCA-Lyra,CCA-Lyra-16,Silkscreen overlap,Resolved,R. Singh,H. Suzuki,Pending validation after changes.
+CCA-Lyra,CCA-Lyra-17,Component clearance issue,Open,S. Park,F. Dubois,"Fix applied, awaiting re-review."
+CCA-Lyra,CCA-Lyra-18,Trace width below spec,In Progress,M. Novak,P. Rao,Pending validation after changes.
+CCA-Lyra,CCA-Lyra-19,High-speed signal routing concern,Open,L. Chen,F. Dubois,"Discussed with team, fix in progress."
+CCA-Lyra,CCA-Lyra-20,Thermal relief missing,Open,S. Park,H. Suzuki,Added required features and verified.
+CCA-Lyra,CCA-Lyra-21,Silkscreen overlap,In Progress,J. Kim,E. Fischer,"Discussed with team, fix in progress."
+CCA-Lyra,CCA-Lyra-22,Missing ground stitching vias,Open,T. Bauer,C. Bennett,"Discussed with team, fix in progress."
+CCA-Lyra,CCA-Lyra-23,High-speed signal routing concern,Resolved,T. Bauer,C. Bennett,Corrected and pushed to latest revision.
+CCA-Lyra,CCA-Lyra-24,Trace width below spec,In Progress,S. Park,C. Bennett,Added required features and verified.
+CCA-Lyra,CCA-Lyra-25,Power plane split issue,In Progress,J. Kim,B. O'Neil,Pending validation after changes.
+CCA-Lyra,CCA-Lyra-26,Via too close to pad,Resolved,J. Kim,E. Fischer,Corrected and pushed to latest revision.
+CCA-Lyra,CCA-Lyra-27,Silkscreen overlap,Resolved,N. Haddad,C. Bennett,"Acknowledged, will address in next revision."
+CCA-Lyra,CCA-Lyra-28,Component clearance issue,Resolved,L. Chen,H. Suzuki,"Acknowledged, will address in next revision."
+CCA-Titan,CCA-Titan-1,Unconnected net,Resolved,T. Bauer,B. O'Neil,Resolved by modifying stackup.
+CCA-Titan,CCA-Titan-2,Impedance mismatch,Open,M. Novak,E. Fischer,Added required features and verified.
+CCA-Titan,CCA-Titan-3,Trace width below spec,Open,D. Alvarez,P. Rao,"Discussed with team, fix in progress."
+CCA-Titan,CCA-Titan-4,Missing ground stitching vias,In Progress,R. Singh,E. Fischer,Added required features and verified.
+CCA-Titan,CCA-Titan-5,Power plane split issue,Resolved,J. Kim,E. Fischer,Constraint updated and rerouted.
+CCA-Titan,CCA-Titan-6,Impedance mismatch,In Progress,R. Singh,P. Rao,No longer applicable after redesign.
+CCA-Titan,CCA-Titan-7,High-speed signal routing concern,In Progress,N. Haddad,Y. Tanaka,Corrected and pushed to latest revision.
+CCA-Titan,CCA-Titan-8,Silkscreen overlap,In Progress,D. Alvarez,C. Bennett,Resolved by modifying stackup.
+CCA-Titan,CCA-Titan-9,Component clearance issue,In Progress,A. Morgan,C. Bennett,"Discussed with team, fix in progress."
+CCA-Titan,CCA-Titan-10,Thermal relief missing,Open,J. Kim,E. Fischer,Adjusted layout to meet spec.
+CCA-Titan,CCA-Titan-11,Component clearance issue,Resolved,S. Park,H. Suzuki,Adjusted layout to meet spec.
+CCA-Titan,CCA-Titan-12,Thermal relief missing,In Progress,R. Singh,F. Dubois,Pending validation after changes.
+CCA-Titan,CCA-Titan-13,Via too close to pad,Open,T. Bauer,G. Costa,Pending validation after changes.
+CCA-Titan,CCA-Titan-14,Impedance mismatch,In Progress,L. Chen,E. Fischer,Added required features and verified.
+CCA-Titan,CCA-Titan-15,Component clearance issue,Open,K. Ito,P. Rao,Corrected and pushed to latest revision.
+CCA-Titan,CCA-Titan-16,Power plane split issue,In Progress,N. Haddad,G. Costa,Added required features and verified.
+CCA-Titan,CCA-Titan-17,Component clearance issue,Open,L. Chen,H. Suzuki,"Discussed with team, fix in progress."
+CCA-Titan,CCA-Titan-18,High-speed signal routing concern,In Progress,K. Ito,H. Suzuki,Corrected and pushed to latest revision.
+CCA-Titan,CCA-Titan-19,High-speed signal routing concern,Open,N. Haddad,B. O'Neil,"Acknowledged, will address in next revision."
+CCA-Titan,CCA-Titan-20,Trace width below spec,In Progress,T. Bauer,C. Bennett,"Fix applied, awaiting re-review."
+CCA-Titan,CCA-Titan-21,High-speed signal routing concern,Resolved,A. Morgan,C. Bennett,"Fix applied, awaiting re-review."
+CCA-Titan,CCA-Titan-22,Impedance mismatch,Open,T. Bauer,G. Costa,Adjusted layout to meet spec.
+CCA-Titan,CCA-Titan-23,Unconnected net,Open,A. Morgan,F. Dubois,Added required features and verified.
+CCA-Titan,CCA-Titan-24,Thermal relief missing,Resolved,N. Haddad,C. Bennett,Pending validation after changes.
+CCA-Titan,CCA-Titan-25,Impedance mismatch,In Progress,D. Alvarez,F. Dubois,Corrected and pushed to latest revision.
+CCA-Titan,CCA-Titan-26,Impedance mismatch,Resolved,T. Bauer,H. Suzuki,Corrected and pushed to latest revision.
+CCA-Titan,CCA-Titan-27,Power plane split issue,In Progress,D. Alvarez,P. Rao,Adjusted layout to meet spec.
+CCA-Titan,CCA-Titan-28,High-speed signal routing concern,Open,R. Singh,Y. Tanaka,Constraint updated and rerouted.
+CCA-Titan,CCA-Titan-29,Silkscreen overlap,Open,R. Singh,B. O'Neil,Resolved by modifying stackup.
+CCA-Titan,CCA-Titan-30,Unconnected net,Open,A. Morgan,F. Dubois,Corrected and pushed to latest revision.
+CCA-Titan,CCA-Titan-31,Impedance mismatch,Resolved,S. Park,H. Suzuki,Pending validation after changes.
+CCA-Titan,CCA-Titan-32,Power plane split issue,Open,M. Novak,P. Rao,No longer applicable after redesign.
+CCA-Titan,CCA-Titan-33,Thermal relief missing,In Progress,R. Singh,H. Suzuki,Pending validation after changes.
+CCA-Titan,CCA-Titan-34,Trace width below spec,Open,M. Novak,Y. Tanaka,No longer applicable after redesign.
+CCA-Titan,CCA-Titan-35,High-speed signal routing concern,In Progress,T. Bauer,C. Bennett,Adjusted layout to meet spec.
+CCA-Echo,CCA-Echo-1,Thermal relief missing,In Progress,S. Park,C. Bennett,Corrected and pushed to latest revision.
+CCA-Echo,CCA-Echo-2,Via too close to pad,Open,T. Bauer,F. Dubois,"Fix applied, awaiting re-review."
+CCA-Echo,CCA-Echo-3,High-speed signal routing concern,In Progress,D. Alvarez,B. O'Neil,Added required features and verified.
+CCA-Echo,CCA-Echo-4,High-speed signal routing concern,Resolved,T. Bauer,G. Costa,Added required features and verified.
+CCA-Echo,CCA-Echo-5,Missing ground stitching vias,Resolved,D. Alvarez,F. Dubois,"Fix applied, awaiting re-review."
+CCA-Echo,CCA-Echo-6,Impedance mismatch,Open,M. Novak,P. Rao,Constraint updated and rerouted.
+CCA-Echo,CCA-Echo-7,Thermal relief missing,Open,T. Bauer,B. O'Neil,Pending validation after changes.
+CCA-Echo,CCA-Echo-8,Component clearance issue,Resolved,A. Morgan,F. Dubois,Adjusted layout to meet spec.
+CCA-Echo,CCA-Echo-9,Trace width below spec,Resolved,T. Bauer,F. Dubois,Corrected and pushed to latest revision.
+CCA-Echo,CCA-Echo-10,Thermal relief missing,In Progress,L. Chen,P. Rao,Corrected and pushed to latest revision.
+CCA-Echo,CCA-Echo-11,Silkscreen overlap,In Progress,M. Novak,B. O'Neil,"Discussed with team, fix in progress."
+CCA-Echo,CCA-Echo-12,Component clearance issue,Resolved,M. Novak,H. Suzuki,"Fix applied, awaiting re-review."
+CCA-Echo,CCA-Echo-13,Power plane split issue,Resolved,D. Alvarez,B. O'Neil,Pending validation after changes.
+CCA-Echo,CCA-Echo-14,Component clearance issue,In Progress,R. Singh,P. Rao,Pending validation after changes.
+CCA-Echo,CCA-Echo-15,Unconnected net,Open,K. Ito,G. Costa,Pending validation after changes.
+CCA-Echo,CCA-Echo-16,Via too close to pad,Open,A. Morgan,P. Rao,Constraint updated and rerouted.
+CCA-Echo,CCA-Echo-17,Unconnected net,Open,T. Bauer,H. Suzuki,Adjusted layout to meet spec.
+CCA-Echo,CCA-Echo-18,Thermal relief missing,Resolved,L. Chen,E. Fischer,"Acknowledged, will address in next revision."
+CCA-Echo,CCA-Echo-19,Power plane split issue,Resolved,S. Park,B. O'Neil,Pending validation after changes.
+CCA-Echo,CCA-Echo-20,Silkscreen overlap,In Progress,J. Kim,Y. Tanaka,Resolved by modifying stackup.
+CCA-Echo,CCA-Echo-21,Silkscreen overlap,In Progress,D. Alvarez,H. Suzuki,Adjusted layout to meet spec.
+CCA-Echo,CCA-Echo-22,Component clearance issue,Resolved,J. Kim,C. Bennett,Pending validation after changes.
+CCA-Echo,CCA-Echo-23,High-speed signal routing concern,Resolved,T. Bauer,H. Suzuki,No longer applicable after redesign.
+CCA-Nimbus,CCA-Nimbus-1,Impedance mismatch,Resolved,D. Alvarez,Y. Tanaka,"Discussed with team, fix in progress."
+CCA-Nimbus,CCA-Nimbus-2,High-speed signal routing concern,Resolved,A. Morgan,Y. Tanaka,Added required features and verified.
+CCA-Nimbus,CCA-Nimbus-3,Unconnected net,Open,T. Bauer,H. Suzuki,Resolved by modifying stackup.
+CCA-Nimbus,CCA-Nimbus-4,Component clearance issue,In Progress,K. Ito,H. Suzuki,"Discussed with team, fix in progress."
+CCA-Nimbus,CCA-Nimbus-5,Via too close to pad,Open,S. Park,B. O'Neil,No longer applicable after redesign.
+CCA-Nimbus,CCA-Nimbus-6,Power plane split issue,Resolved,M. Novak,C. Bennett,Corrected and pushed to latest revision.
+CCA-Nimbus,CCA-Nimbus-7,Via too close to pad,Resolved,A. Morgan,P. Rao,Adjusted layout to meet spec.
+CCA-Nimbus,CCA-Nimbus-8,Impedance mismatch,Open,J. Kim,C. Bennett,"Acknowledged, will address in next revision."
+CCA-Nimbus,CCA-Nimbus-9,Power plane split issue,Open,K. Ito,P. Rao,"Acknowledged, will address in next revision."
+CCA-Nimbus,CCA-Nimbus-10,Power plane split issue,Open,A. Morgan,C. Bennett,Added required features and verified.
+CCA-Nimbus,CCA-Nimbus-11,Silkscreen overlap,In Progress,M. Novak,B. O'Neil,Added required features and verified.
+CCA-Nimbus,CCA-Nimbus-12,Impedance mismatch,Resolved,R. Singh,Y. Tanaka,Constraint updated and rerouted.
+CCA-Nimbus,CCA-Nimbus-13,Power plane split issue,Open,S. Park,P. Rao,No longer applicable after redesign.
+CCA-Nimbus,CCA-Nimbus-14,Trace width below spec,Open,L. Chen,G. Costa,Corrected and pushed to latest revision.
+CCA-Nimbus,CCA-Nimbus-15,Missing ground stitching vias,Resolved,S. Park,E. Fischer,Adjusted layout to meet spec.
+CCA-Nimbus,CCA-Nimbus-16,Impedance mismatch,Open,A. Morgan,C. Bennett,No longer applicable after redesign.
+CCA-Nimbus,CCA-Nimbus-17,Silkscreen overlap,In Progress,A. Morgan,E. Fischer,No longer applicable after redesign.
+CCA-Nimbus,CCA-Nimbus-18,Trace width below spec,Open,A. Morgan,C. Bennett,No longer applicable after redesign.
+CCA-Nimbus,CCA-Nimbus-19,Via too close to pad,In Progress,A. Morgan,P. Rao,Constraint updated and rerouted.
+CCA-Nimbus,CCA-Nimbus-20,Thermal relief missing,Resolved,D. Alvarez,F. Dubois,Constraint updated and rerouted.
+CCA-Nimbus,CCA-Nimbus-21,Via too close to pad,Open,A. Morgan,E. Fischer,"Fix applied, awaiting re-review."
+CCA-Nimbus,CCA-Nimbus-22,Silkscreen overlap,In Progress,R. Singh,Y. Tanaka,"Discussed with team, fix in progress."
+CCA-Nimbus,CCA-Nimbus-23,Component clearance issue,Resolved,S. Park,F. Dubois,No longer applicable after redesign.
+CCA-Nimbus,CCA-Nimbus-24,Thermal relief missing,Resolved,S. Park,P. Rao,Pending validation after changes.
+CCA-Nimbus,CCA-Nimbus-25,Silkscreen overlap,In Progress,L. Chen,G. Costa,Added required features and verified.
+CCA-Nimbus,CCA-Nimbus-26,Power plane split issue,Resolved,L. Chen,P. Rao,"Discussed with team, fix in progress."
+CCA-Nimbus,CCA-Nimbus-27,Missing ground stitching vias,In Progress,N. Haddad,E. Fischer,Adjusted layout to meet spec.
+CCA-Nimbus,CCA-Nimbus-28,Impedance mismatch,Open,K. Ito,B. O'Neil,Constraint updated and rerouted.
+CCA-Nimbus,CCA-Nimbus-29,High-speed signal routing concern,In Progress,S. Park,Y. Tanaka,Added required features and verified.
+CCA-Nimbus,CCA-Nimbus-30,High-speed signal routing concern,Resolved,S. Park,C. Bennett,Constraint updated and rerouted.
+CCA-Nimbus,CCA-Nimbus-31,Component clearance issue,In Progress,K. Ito,G. Costa,Adjusted layout to meet spec.
+CCA-Nimbus,CCA-Nimbus-32,Impedance mismatch,Open,S. Park,F. Dubois,"Discussed with team, fix in progress."
+CCA-Nimbus,CCA-Nimbus-33,Silkscreen overlap,In Progress,R. Singh,Y. Tanaka,Added required features and verified.
+CCA-Nimbus,CCA-Nimbus-34,High-speed signal routing concern,Resolved,A. Morgan,B. O'Neil,Adjusted layout to meet spec.
+CCA-Nimbus,CCA-Nimbus-35,Silkscreen overlap,Open,S. Park,G. Costa,Adjusted layout to meet spec.
+CCA-Nimbus,CCA-Nimbus-36,High-speed signal routing concern,Open,D. Alvarez,P. Rao,No longer applicable after redesign.
+CCA-Nimbus,CCA-Nimbus-37,Thermal relief missing,In Progress,J. Kim,H. Suzuki,"Discussed with team, fix in progress."
+CCA-Nimbus,CCA-Nimbus-38,Trace width below spec,Resolved,R. Singh,F. Dubois,Added required features and verified.
+CCA-Nimbus,CCA-Nimbus-39,Missing ground stitching vias,In Progress,K. Ito,F. Dubois,"Discussed with team, fix in progress."
+CCA-Nimbus,CCA-Nimbus-40,Thermal relief missing,Open,K. Ito,F. Dubois,Pending validation after changes.
+CCA-Nimbus,CCA-Nimbus-41,High-speed signal routing concern,Open,J. Kim,H. Suzuki,Pending validation after changes.
+CCA-Nimbus,CCA-Nimbus-42,Missing ground stitching vias,In Progress,K. Ito,B. O'Neil,Resolved by modifying stackup.
+CCA-Nimbus,CCA-Nimbus-43,Silkscreen overlap,Open,K. Ito,H. Suzuki,Adjusted layout to meet spec.
+CCA-Nimbus,CCA-Nimbus-44,Missing ground stitching vias,Open,N. Haddad,F. Dubois,Constraint updated and rerouted.
+CCA-Nimbus,CCA-Nimbus-45,Component clearance issue,In Progress,R. Singh,Y. Tanaka,Corrected and pushed to latest revision.
+CCA-Nimbus,CCA-Nimbus-46,Thermal relief missing,In Progress,L. Chen,G. Costa,Constraint updated and rerouted.
+CCA-Nimbus,CCA-Nimbus-47,Unconnected net,In Progress,L. Chen,Y. Tanaka,No longer applicable after redesign.
+CCA-Nimbus,CCA-Nimbus-48,Silkscreen overlap,Resolved,L. Chen,F. Dubois,Adjusted layout to meet spec.
+CCA-Nimbus,CCA-Nimbus-49,Component clearance issue,Resolved,N. Haddad,C. Bennett,"Discussed with team, fix in progress."
+CCA-Nimbus,CCA-Nimbus-50,Via too close to pad,Open,R. Singh,E. Fischer,"Fix applied, awaiting re-review."
+CCA-Vega,CCA-Vega-1,Thermal relief missing,Resolved,J. Kim,C. Bennett,Resolved by modifying stackup.
+CCA-Vega,CCA-Vega-2,Impedance mismatch,Open,J. Kim,H. Suzuki,"Acknowledged, will address in next revision."
+CCA-Vega,CCA-Vega-3,Impedance mismatch,Open,L. Chen,B. O'Neil,Adjusted layout to meet spec.
+CCA-Vega,CCA-Vega-4,Trace width below spec,Resolved,T. Bauer,C. Bennett,Adjusted layout to meet spec.
+CCA-Vega,CCA-Vega-5,Component clearance issue,In Progress,R. Singh,F. Dubois,Constraint updated and rerouted.
+CCA-Vega,CCA-Vega-6,Unconnected net,In Progress,M. Novak,P. Rao,Corrected and pushed to latest revision.
+CCA-Vega,CCA-Vega-7,Missing ground stitching vias,Open,J. Kim,H. Suzuki,Constraint updated and rerouted.
+CCA-Vega,CCA-Vega-8,Via too close to pad,In Progress,T. Bauer,F. Dubois,"Fix applied, awaiting re-review."
+CCA-Vega,CCA-Vega-9,Component clearance issue,Resolved,N. Haddad,P. Rao,"Discussed with team, fix in progress."
+CCA-Vega,CCA-Vega-10,Thermal relief missing,Resolved,S. Park,Y. Tanaka,Adjusted layout to meet spec.
+CCA-Vega,CCA-Vega-11,Unconnected net,Resolved,J. Kim,H. Suzuki,Pending validation after changes.
+CCA-Vega,CCA-Vega-12,Component clearance issue,Open,T. Bauer,G. Costa,"Discussed with team, fix in progress."
+CCA-Vega,CCA-Vega-13,Component clearance issue,Open,K. Ito,P. Rao,Resolved by modifying stackup.
+CCA-Vega,CCA-Vega-14,High-speed signal routing concern,Open,M. Novak,B. O'Neil,Constraint updated and rerouted.
+CCA-Vega,CCA-Vega-15,Component clearance issue,Resolved,N. Haddad,F. Dubois,Pending validation after changes.
+CCA-Vega,CCA-Vega-16,Silkscreen overlap,Open,A. Morgan,Y. Tanaka,Adjusted layout to meet spec.
+CCA-Vega,CCA-Vega-17,Missing ground stitching vias,Open,R. Singh,B. O'Neil,Added required features and verified.
+CCA-Vega,CCA-Vega-18,Silkscreen overlap,In Progress,M. Novak,B. O'Neil,"Discussed with team, fix in progress."
+CCA-Vega,CCA-Vega-19,Missing ground stitching vias,Resolved,M. Novak,Y. Tanaka,"Fix applied, awaiting re-review."
+CCA-Vega,CCA-Vega-20,Power plane split issue,Resolved,L. Chen,B. O'Neil,"Fix applied, awaiting re-review."
+CCA-Vega,CCA-Vega-21,High-speed signal routing concern,Resolved,J. Kim,C. Bennett,"Discussed with team, fix in progress."
+CCA-Vega,CCA-Vega-22,Unconnected net,Open,K. Ito,Y. Tanaka,"Fix applied, awaiting re-review."
+CCA-Vega,CCA-Vega-23,Silkscreen overlap,Resolved,A. Morgan,F. Dubois,Corrected and pushed to latest revision.
+CCA-Vega,CCA-Vega-24,Via too close to pad,Open,J. Kim,Y. Tanaka,Corrected and pushed to latest revision.
+CCA-Vega,CCA-Vega-25,Unconnected net,In Progress,K. Ito,B. O'Neil,"Discussed with team, fix in progress."
+CCA-Vega,CCA-Vega-26,Via too close to pad,Open,L. Chen,F. Dubois,No longer applicable after redesign.
+CCA-Vega,CCA-Vega-27,Missing ground stitching vias,In Progress,D. Alvarez,Y. Tanaka,Constraint updated and rerouted.
+CCA-Vega,CCA-Vega-28,Power plane split issue,In Progress,S. Park,G. Costa,Corrected and pushed to latest revision.
+CCA-Vega,CCA-Vega-29,Power plane split issue,Open,M. Novak,Y. Tanaka,Pending validation after changes.
+CCA-Vega,CCA-Vega-30,Trace width below spec,Open,N. Haddad,P. Rao,No longer applicable after redesign.
+CCA-Vega,CCA-Vega-31,Silkscreen overlap,Resolved,D. Alvarez,C. Bennett,"Discussed with team, fix in progress."
+CCA-Vega,CCA-Vega-32,Silkscreen overlap,Open,J. Kim,P. Rao,No longer applicable after redesign.
+CCA-Vega,CCA-Vega-33,Via too close to pad,Resolved,T. Bauer,F. Dubois,No longer applicable after redesign.
+CCA-Vega,CCA-Vega-34,Trace width below spec,In Progress,J. Kim,F. Dubois,No longer applicable after redesign.
+CCA-Vega,CCA-Vega-35,Thermal relief missing,Open,T. Bauer,B. O'Neil,Pending validation after changes.
+CCA-Vega,CCA-Vega-36,Unconnected net,In Progress,K. Ito,F. Dubois,Pending validation after changes.
+CCA-Vega,CCA-Vega-37,Silkscreen overlap,In Progress,K. Ito,P. Rao,Resolved by modifying stackup.
+CCA-Vega,CCA-Vega-38,Power plane split issue,In Progress,T. Bauer,Y. Tanaka,"Fix applied, awaiting re-review."
+CCA-Vega,CCA-Vega-39,Power plane split issue,Resolved,T. Bauer,E. Fischer,Corrected and pushed to latest revision.
+CCA-Vega,CCA-Vega-40,Missing ground stitching vias,Open,K. Ito,F. Dubois,Resolved by modifying stackup.
+CCA-Vega,CCA-Vega-41,Component clearance issue,Open,L. Chen,F. Dubois,"Acknowledged, will address in next revision."
+CCA-Vega,CCA-Vega-42,High-speed signal routing concern,Open,S. Park,B. O'Neil,No longer applicable after redesign.
+CCA-Vega,CCA-Vega-43,Missing ground stitching vias,In Progress,K. Ito,H. Suzuki,No longer applicable after redesign.
+CCA-Vega,CCA-Vega-44,Silkscreen overlap,In Progress,L. Chen,E. Fischer,Resolved by modifying stackup.
+CCA-Vega,CCA-Vega-45,Component clearance issue,Open,D. Alvarez,B. O'Neil,Resolved by modifying stackup.
+CCA-Vega,CCA-Vega-46,Via too close to pad,Open,K. Ito,E. Fischer,Resolved by modifying stackup.
+CCA-Vega,CCA-Vega-47,Impedance mismatch,Resolved,T. Bauer,P. Rao,"Acknowledged, will address in next revision."
+CCA-Atlas,CCA-Atlas-1,Via too close to pad,Resolved,L. Chen,F. Dubois,Pending validation after changes.
+CCA-Atlas,CCA-Atlas-2,Impedance mismatch,Resolved,L. Chen,E. Fischer,Added required features and verified.
+CCA-Atlas,CCA-Atlas-3,Silkscreen overlap,Resolved,T. Bauer,C. Bennett,Adjusted layout to meet spec.
+CCA-Atlas,CCA-Atlas-4,High-speed signal routing concern,Open,M. Novak,F. Dubois,Added required features and verified.
+CCA-Atlas,CCA-Atlas-5,High-speed signal routing concern,In Progress,M. Novak,P. Rao,Pending validation after changes.
+CCA-Atlas,CCA-Atlas-6,Thermal relief missing,Resolved,M. Novak,G. Costa,"Fix applied, awaiting re-review."
+CCA-Atlas,CCA-Atlas-7,Trace width below spec,Resolved,A. Morgan,B. O'Neil,Resolved by modifying stackup.
+CCA-Atlas,CCA-Atlas-8,Impedance mismatch,Open,N. Haddad,H. Suzuki,"Acknowledged, will address in next revision."
+CCA-Atlas,CCA-Atlas-9,Missing ground stitching vias,In Progress,K. Ito,F. Dubois,Pending validation after changes.
+CCA-Atlas,CCA-Atlas-10,High-speed signal routing concern,Resolved,J. Kim,E. Fischer,Corrected and pushed to latest revision.
+CCA-Atlas,CCA-Atlas-11,High-speed signal routing concern,In Progress,A. Morgan,H. Suzuki,No longer applicable after redesign.
+CCA-Atlas,CCA-Atlas-12,High-speed signal routing concern,Open,J. Kim,B. O'Neil,"Fix applied, awaiting re-review."
+CCA-Atlas,CCA-Atlas-13,Via too close to pad,In Progress,T. Bauer,B. O'Neil,Constraint updated and rerouted.
+CCA-Atlas,CCA-Atlas-14,Impedance mismatch,Open,D. Alvarez,F. Dubois,No longer applicable after redesign.
+CCA-Atlas,CCA-Atlas-15,Thermal relief missing,Resolved,L. Chen,F. Dubois,Resolved by modifying stackup.
+CCA-Atlas,CCA-Atlas-16,Impedance mismatch,In Progress,L. Chen,F. Dubois,"Fix applied, awaiting re-review."
+CCA-Atlas,CCA-Atlas-17,Thermal relief missing,Resolved,S. Park,E. Fischer,No longer applicable after redesign.
+CCA-Atlas,CCA-Atlas-18,Trace width below spec,Open,M. Novak,G. Costa,"Discussed with team, fix in progress."
+CCA-Atlas,CCA-Atlas-19,Trace width below spec,Open,T. Bauer,H. Suzuki,"Acknowledged, will address in next revision."
+CCA-Atlas,CCA-Atlas-20,Thermal relief missing,Open,K. Ito,G. Costa,"Acknowledged, will address in next revision."
+CCA-Atlas,CCA-Atlas-21,Component clearance issue,Resolved,J. Kim,H. Suzuki,Corrected and pushed to latest revision.
+CCA-Atlas,CCA-Atlas-22,Thermal relief missing,Resolved,D. Alvarez,H. Suzuki,Constraint updated and rerouted.
+CCA-Atlas,CCA-Atlas-23,Trace width below spec,Resolved,L. Chen,C. Bennett,Adjusted layout to meet spec.
+CCA-Atlas,CCA-Atlas-24,Trace width below spec,Resolved,R. Singh,P. Rao,Corrected and pushed to latest revision.
+CCA-Atlas,CCA-Atlas-25,Via too close to pad,In Progress,A. Morgan,C. Bennett,"Discussed with team, fix in progress."
+CCA-Atlas,CCA-Atlas-26,Unconnected net,Open,K. Ito,H. Suzuki,Added required features and verified.
+CCA-Atlas,CCA-Atlas-27,High-speed signal routing concern,Resolved,R. Singh,E. Fischer,Resolved by modifying stackup.
+CCA-Atlas,CCA-Atlas-28,Impedance mismatch,Open,K. Ito,H. Suzuki,Pending validation after changes.
+CCA-Atlas,CCA-Atlas-29,Thermal relief missing,Resolved,R. Singh,C. Bennett,Pending validation after changes.
+CCA-Atlas,CCA-Atlas-30,Silkscreen overlap,Open,S. Park,Y. Tanaka,Adjusted layout to meet spec.
+CCA-Helios,CCA-Helios-1,Component clearance issue,Open,A. Morgan,F. Dubois,Added required features and verified.
+CCA-Helios,CCA-Helios-2,Unconnected net,Open,A. Morgan,E. Fischer,Adjusted layout to meet spec.
+CCA-Helios,CCA-Helios-3,Thermal relief missing,Open,L. Chen,E. Fischer,Added required features and verified.
+CCA-Helios,CCA-Helios-4,Trace width below spec,Resolved,J. Kim,G. Costa,Adjusted layout to meet spec.
+CCA-Helios,CCA-Helios-5,Power plane split issue,Open,J. Kim,Y. Tanaka,Adjusted layout to meet spec.
+CCA-Helios,CCA-Helios-6,Trace width below spec,Open,A. Morgan,C. Bennett,Constraint updated and rerouted.
+CCA-Helios,CCA-Helios-7,Unconnected net,Resolved,A. Morgan,G. Costa,"Discussed with team, fix in progress."
+CCA-Helios,CCA-Helios-8,High-speed signal routing concern,Resolved,L. Chen,B. O'Neil,"Discussed with team, fix in progress."
+CCA-Helios,CCA-Helios-9,Thermal relief missing,In Progress,T. Bauer,E. Fischer,Adjusted layout to meet spec.
+CCA-Helios,CCA-Helios-10,Trace width below spec,Resolved,M. Novak,H. Suzuki,"Fix applied, awaiting re-review."
+CCA-Helios,CCA-Helios-11,Power plane split issue,In Progress,J. Kim,C. Bennett,"Acknowledged, will address in next revision."
+CCA-Helios,CCA-Helios-12,Via too close to pad,Resolved,T. Bauer,H. Suzuki,Corrected and pushed to latest revision.
+CCA-Helios,CCA-Helios-13,Unconnected net,Resolved,S. Park,C. Bennett,"Discussed with team, fix in progress."
+CCA-Helios,CCA-Helios-14,Unconnected net,Resolved,T. Bauer,C. Bennett,Pending validation after changes.
+CCA-Helios,CCA-Helios-15,Component clearance issue,In Progress,L. Chen,B. O'Neil,"Fix applied, awaiting re-review."
+CCA-Helios,CCA-Helios-16,Unconnected net,Open,T. Bauer,C. Bennett,No longer applicable after redesign.
+CCA-Helios,CCA-Helios-17,Unconnected net,Open,N. Haddad,G. Costa,Resolved by modifying stackup.
+CCA-Helios,CCA-Helios-18,Trace width below spec,In Progress,K. Ito,H. Suzuki,No longer applicable after redesign.
+CCA-Helios,CCA-Helios-19,Via too close to pad,Open,T. Bauer,P. Rao,Resolved by modifying stackup.
+CCA-Helios,CCA-Helios-20,High-speed signal routing concern,Resolved,D. Alvarez,Y. Tanaka,Added required features and verified.
+CCA-Helios,CCA-Helios-21,Power plane split issue,In Progress,M. Novak,F. Dubois,Adjusted layout to meet spec.
+CCA-Helios,CCA-Helios-22,Trace width below spec,Open,J. Kim,E. Fischer,"Fix applied, awaiting re-review."

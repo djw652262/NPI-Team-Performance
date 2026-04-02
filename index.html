@@ -21,7 +21,10 @@
         <h1>Electrical NPI Performance Dashboard</h1>
         <p class="subtitle">Upload any CSV and instantly get charting, filter controls, and auto-generated insights.</p>
       </div>
-      <button id="load-demo" class="btn btn-ghost" type="button">Load Existing CSV</button>
+      <div class="hero-actions">
+        <button id="load-demo" class="btn btn-ghost" type="button">Load Existing CSV</button>
+        <button id="load-pcb-demo" class="btn btn-ghost" type="button">Load PCB Findings</button>
+      </div>
     </header>
 
     <section class="upload-panel">
@@ -78,6 +81,102 @@
         <ul id="insights-list"></ul>
       </section>
     </section>
+
+    <section id="pcb-dashboard" class="panel">
+      <div class="panel-head">
+        <h2>PCB Review Findings Dashboard</h2>
+        <p id="pcb-meta">Loading pcb_review_findings.csv...</p>
+      </div>
+
+      <div class="pcb-upload">
+        <label class="btn btn-ghost" for="pcb-file-input">Upload PCB CSV</label>
+        <input id="pcb-file-input" type="file" accept=".csv,text/csv" hidden>
+      </div>
+
+      <div class="pcb-controls">
+        <label>
+          <span>PCB Design</span>
+          <select id="pcb-design-filter"></select>
+        </label>
+        <label>
+          <span>Status</span>
+          <select id="pcb-status-filter"></select>
+        </label>
+        <label>
+          <span>Designer</span>
+          <select id="pcb-designer-filter"></select>
+        </label>
+        <label>
+          <span>Reviewer</span>
+          <select id="pcb-reviewer-filter"></select>
+        </label>
+      </div>
+
+      <div class="kpi-grid">
+        <article class="kpi-card">
+          <p>Total Findings</p>
+          <strong id="kpi-total">0</strong>
+        </article>
+        <article class="kpi-card">
+          <p>Open</p>
+          <strong id="kpi-open">0</strong>
+        </article>
+        <article class="kpi-card">
+          <p>In Progress</p>
+          <strong id="kpi-inprogress">0</strong>
+        </article>
+        <article class="kpi-card">
+          <p>Resolved</p>
+          <strong id="kpi-resolved">0</strong>
+        </article>
+      </div>
+
+      <div class="pcb-chart-grid">
+        <section class="panel mini-panel">
+          <div class="panel-head">
+            <h2>Status Distribution</h2>
+          </div>
+          <canvas id="pcb-status-chart"></canvas>
+        </section>
+
+        <section class="panel mini-panel">
+          <div class="panel-head">
+            <h2>Top Issue Types</h2>
+          </div>
+          <canvas id="pcb-issue-chart"></canvas>
+        </section>
+      </div>
+
+      <section class="panel mini-panel">
+        <div class="panel-head">
+          <h2>Insights</h2>
+        </div>
+        <ul id="pcb-insights-list"></ul>
+      </section>
+
+      <section class="panel mini-panel">
+        <div class="panel-head">
+          <h2>Filtered Findings</h2>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Finding ID</th>
+                <th>PCB Design</th>
+                <th>Issue Type</th>
+                <th>Status</th>
+                <th>Designer</th>
+                <th>Reviewer</th>
+              </tr>
+            </thead>
+            <tbody id="pcb-table-body"></tbody>
+          </table>
+        </div>
+      </section>
+    </section>
   </main>
 </body>
 </html>
+
+
