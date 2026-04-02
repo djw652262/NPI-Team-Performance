@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Electrical NPI Performance Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js" defer></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <div class="backdrop"></div>
+  <main class="shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Electrical Program Analytics</p>
+        <h1>Electrical NPI Performance Dashboard</h1>
+        <p class="subtitle">Upload any CSV and instantly get charting, filter controls, and auto-generated insights.</p>
+      </div>
+      <button id="load-demo" class="btn btn-ghost" type="button">Load Existing CSV</button>
+    </header>
+
+    <section class="upload-panel">
+      <label id="dropzone" class="dropzone" for="file-input">
+        <input id="file-input" type="file" accept=".csv,text/csv" hidden>
+        <strong>Drag and drop a CSV file here</strong>
+        <span>or click to browse</span>
+      </label>
+      <div id="file-meta" class="file-meta">No file loaded yet.</div>
+    </section>
+
+    <section id="dashboard" class="dashboard hidden">
+      <section class="panel controls">
+        <h2>Controls</h2>
+        <div class="control-grid">
+          <label>
+            <span>Chart Type</span>
+            <select id="chart-type">
+              <option value="bar">Bar</option>
+              <option value="line">Line</option>
+              <option value="pie">Pie</option>
+            </select>
+          </label>
+          <label>
+            <span>Dimension (X-Axis)</span>
+            <select id="dimension"></select>
+          </label>
+          <label>
+            <span>Metric (Y-Axis)</span>
+            <select id="metric"></select>
+          </label>
+          <label>
+            <span>Aggregation</span>
+            <select id="aggregation">
+              <option value="sum">Sum</option>
+              <option value="avg">Average</option>
+              <option value="count">Count</option>
+            </select>
+          </label>
+        </div>
+        <div id="filter-wrap" class="filter-wrap"></div>
+      </section>
+
+      <section class="panel chart-panel">
+        <div class="panel-head">
+          <h2>Chart</h2>
+          <p id="chart-caption"></p>
+        </div>
+        <canvas id="chart"></canvas>
+      </section>
+
+      <section class="panel insights-panel">
+        <h2>Insights</h2>
+        <ul id="insights-list"></ul>
+      </section>
+    </section>
+  </main>
+</body>
+</html>
